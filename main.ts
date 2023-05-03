@@ -1,6 +1,6 @@
 input.onButtonPressed(Button.A, function () {
     comment.comment("DON'T CHANGE THIS CODE!")
-    speed = -200
+    speed = -100
     radio.sendValue("A", 1)
 })
 input.onButtonPressed(Button.AB, function () {
